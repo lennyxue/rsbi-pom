@@ -58,7 +58,7 @@ if(window.top != window.self){
 							<input type="text" name="userName" value="${userName}" class="form-control uname" placeholder="您的账号" required="true" aria-required="true"/>
 							<input type="password" name="password" value="${password}" class="form-control pword m-b" placeholder="您的密码" required="true" aria-required="true"/>
 							<button class="btn btn-success btn-block full-width m-b" type="submit">登录</button>
-							 <p>账号/密码： admin/123456 </p>
+							 <p>卓望测试BI平台 </p>
 						</div>
 					</div>
                 </form>
